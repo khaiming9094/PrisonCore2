@@ -1,5 +1,7 @@
 package com.mt.metro;
 
-public class PrisonCore2 {
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class PrisonCore2 extends JavaPlugin{
 
 }
